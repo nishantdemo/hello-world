@@ -5,4 +5,4 @@
 <h2> deploy on VM </h2>
 <h2> changes not reflecting </h2>
 <h2> change 100220 </h2> 
-
+<h3> changes after docer install </h2>
