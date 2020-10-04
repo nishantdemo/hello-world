@@ -7,3 +7,4 @@
 <h2> change 100220 </h2> 
 <h3> changes after docer install </h3>
 <h4> docker and anisble playbook </h4>
+<h4> test container delete </h4>
