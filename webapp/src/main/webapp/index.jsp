@@ -8,3 +8,4 @@
 <h3> changes after docer install </h3>
 <h4> docker and anisble playbook </h4>
 <h4> test container delete </h4>
+<h4> testing entire cicd with anisble to docker </h4>
